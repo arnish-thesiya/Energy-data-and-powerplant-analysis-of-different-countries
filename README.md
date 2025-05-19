@@ -1,18 +1,26 @@
-# Energy Data Analysis (University Project)
+# Energy Production Data Analysis (University Project)
 
-This project was completed as part of the "Python for Data Science" course at Hochschule Nordhausen.
+This project was developed as part of a university module on Python for Data Science. It analyzes energy production data from global power plants with a focus on country-level comparisons and trends.
 
-It involves:
-- Cleaning and merging power plant datasets across different countries
-- Analyzing and comparing energy generation by type and region
-- Visualizing trends in renewables vs. fossil fuel use using matplotlib and seaborn
+## Objectives
+- Clean and merge datasets from different sources
+- Analyze energy production by country and energy type 
+- Visualize trends using bar charts and summary tables
 
-## Tools & Libraries
-- Python
+## Tools & Technologies
+- Python (Jupyter Notebook)
 - pandas
 - matplotlib
 - seaborn
 
-## Dataset
-Public dataset on global energy production (CSV format)
+## Key Insights
+- Detailed comparison of South Africa’s energy profile with global data
+- Categorization and summation of energy production types across multiple regions
+- Simple, effective visual summaries to highlight energy trends
 
+## Dataset
+Includes CSV data on global power generation by fuel type and country.
+
+---
+
+**Note:** This is an academic project intended for data exploration and learning purposes.
