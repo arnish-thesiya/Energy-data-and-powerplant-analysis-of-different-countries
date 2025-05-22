@@ -10,6 +10,7 @@ This project was developed as part of a university module on Python for Data Sci
 ## Tools & Technologies
 - Python (Jupyter Notebook)
 - pandas
+- NumPy
 - matplotlib
 - seaborn
 
